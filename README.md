@@ -15,4 +15,4 @@ Amazon・楽天・JANコード検索などのツールを開発する過程で�
 
 ## 今後の展開
 このリポジトリは、最終的な完成版ツールの基礎となったコードを記録する目的で管理しています。  
-最新の安定版は [`amazon-scraping-tools`](https://github.com/yourname/amazon-scraping-tools) や [`ai-description-generator`](https://github.com/yourname/ai-description-generator) を参照してください。
+最新の安定版は [`amazon-scraping-tools`](https://github.com/eckobayashi0710/amazon-scraping-tools) や [`ai-description-generator`](https://github.com/eckobayashi0710/ai-description-generator) を参照してください。
